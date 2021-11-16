@@ -16,3 +16,5 @@ npm i
 npm start 
 ```
 
+## Demo
+ ![](https://github.com/sohilchamadia8/Robofriends/blob/main/demo.gif)
