@@ -1,4 +1,4 @@
-# React App - Robo Friends
+# React App - Find Robots
 
 Listing the data from the API with different Robot images.
 
